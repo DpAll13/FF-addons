@@ -1,6 +1,6 @@
 # **smnskill -- Summoner Skill-Up Addon**
 
-Automates safe, human-like Summoner skill-ups on *HorizonXI* by rotating
+Automates safe, human-like Summoner skill-ups on by rotating
 avatars, releasing them, and resting when MP is low.\
 All actions use randomized timing to mimic natural gameplay and avoid
 spam.

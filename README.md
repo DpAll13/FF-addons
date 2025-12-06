@@ -85,10 +85,10 @@ You should see:
 
 ### **Home**
 
--   Start/Stop control\
--   Current avatar\
--   Runtime\
--   MP Rest status\
+-   Start/Stop control
+-   Current avatar
+-   Runtime
+-   MP Rest status
 -   Rest duration (current or last)
 
 ------------------------------------------------------------------------
